@@ -1,6 +1,5 @@
-# Virtualna-ambasada-Ruske-Federacije
+# Virtualna ambasada Ruske Federacije u Republici Srbiji
 <!-- KOMPLETAN HTML SA SVIM OPISIMA INSTITUCIJA -->
-<!DOCTYPE html>
 <html lang="sr">
 <head>
 <meta charset="UTF-8">
